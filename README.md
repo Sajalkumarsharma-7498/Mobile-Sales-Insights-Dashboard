@@ -1,9 +1,5 @@
 # Mobile-Sales-Insights-Dashboard
-# 📊 Samsung Mobile Sales Dashboard
-
-An interactive **Power BI Dashboard** for analyzing Samsung mobile phone sales across major Indian cities — built for data-driven decision making.
-
----
+An interactive Power BI Dashboard built to analyze and visualize mobile phone sales data across multiple cities, brands, and customer segments. This project provides actionable insights into sales performance, customer behavior, and revenue trends.
 
 ## 🔍 Project Overview
 
@@ -58,15 +54,37 @@ samsung-sales-dashboard/
 └── README.md
 ```
 
----
+## 📌 Key Insights
+- City-wise revenue performance on an interactive map
+- Best-selling mobile models by total revenue
+- Most preferred payment methods among customers
+- Day-wise sales trends to identify peak business days
+- Customer satisfaction rating distribution via funnel chart
 
-## 🚀 How to Run
+🚀 How to Use
 
-1. Clone this repository
-   ```bash
-   git clone https://github.com/your-username/samsung-sales-dashboard.git
-   ```
-2. Open `Samsung_Sales_Dashboard.pbix` in **Power BI Desktop**
-3. Refresh the data source if needed
-4. Explore using the month and filter options on the left panel
+Clone this repository
+
+bash   git clone https://github.com//Sajalkumarsharma-7498/Mobile-Sales-Insights-Dashboard.git
+
+Open the .pbix file
+
+Install Power BI Desktop (free)
+Open Mobile-Sales-Insights-Dashboard.pbix
+
+
+Explore the Dashboard
+
+Use the Mobile Model and Payment Method slicers to filter data
+Hover over visuals for detailed tooltips
+Click on chart elements for cross-filtering
+📌 Use Cases
+
+Track city-wise sales performance on a map
+Identify top-selling mobile brands and models
+Analyze payment method preferences of customers
+Monitor customer satisfaction trends via ratings
+Study monthly/weekly sales trends over time
+
+
 
