@@ -12,7 +12,7 @@ Clustered Bar ChartTotal Sales by Mobile Model — best-selling models
 Pie ChartTransactions by Payment Method — preferred payment modes
 Funnel ChartCustomer Ratings distribution
 Area ChartTotal Sales by Day Name — weekly sales pattern 
-Table  Brand-level breakdown: Total Sales, Quantity, Transactions
+Table  Brand-level breakdown: Total Sales, Quantity, Transactions 
 Slicers Filter by Mobile Model and Payment Method
 Date SlicerFilter data by Month
 
